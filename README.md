@@ -2,6 +2,19 @@
 ROS package for Robotics competition week IITJ
 
 ### Instructions
+- Install turtlebot3(if not intalled before)
+```
+cd ~/catkin_ws/src
+```
+```
+git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
+```
+```
+git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+```
+```
+git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+```
 - Clone the repo
 ```
 cd catkin_ws/src
